@@ -42,4 +42,4 @@ Com a auditoria de *joins*, tratamento de nulos e reconciliação dos dados na f
 
 ```bash
 pip install marimo pandas numpy plotly
-marimo edit auditoria_atribuicao_mobile_crisp_dm.py
+marimo edit auditor_mobile_crisp_dm.py
